@@ -1,0 +1,85 @@
+
+
+.form {
+    background-color:rgba(0, 128, 0, 0.952); 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:40%;
+    color: aliceblue;
+    margin-top: 20px;
+    padding-left: 50px;
+    
+}
+
+
+/* hover on a which is link */
+.container-fluid a:hover {
+    background-color: red;
+}
+
+
+
+.background{
+    display: grid;
+    place-items:center;
+    /* height: 300px;
+    width: 50px; */
+    margin-top: -500px;
+    margin-left: 400px ;
+
+    
+}
+
+
+.p{
+    font-size : 30px;
+    color :green;
+    margin-top: 50px;
+    margin-left:150px;
+    /* font-size: large; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .form {
+    background-color:orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:40%;
+    height:auto ;
+    /* margin-left: 20px; */
+    
+}
+
+
+
+/* hover on a which is link */
+/* .container-fluid a:hover {
+    background-color: red;
+}
+
+
+
+.background{
+    display: grid;
+    place-items:center;
+    /* height: 300px;
+    width: 50px; */
+    margin-top: -500px;
+    margin-left: 400px ;
+
+     */
+} */

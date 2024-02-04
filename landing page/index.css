@@ -1,0 +1,25 @@
+/* 
+.carousel slide{
+    /* width:10px;
+    height:20px; */
+/*     
+} 
+.slider-img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.carouselitem{
+    height: 70vh;
+    position: relative;
+} */
+
+
+
+
+ .carousel-inner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+ }
